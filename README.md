@@ -17,6 +17,6 @@ Primarly Used Naive Bayes to Predict the confirmed cases w.r.t Nations. Since Na
 Majour use of Pandas, Numpy, Matplotlib, Geopandas and Scikit Learn.
 
 # Predicted Outputs
-Predicted Outputs for the corresponding Test set are exported to dot csv file by the name Submission. This file is also Part of the current repository.
+Predicted Outputs for the corresponding Test set are exported to dot csv file by the name Submission_Covid19. This file is also Part of the current repository.
 
  
